@@ -127,7 +127,7 @@ The pipeline notebook (`last-model-pipeline.ipynb`) reads local CSV files — up
 |---|---|
 | Data & Correlation Analysis | [Malak Hisham](https://github.com/malakhishams) |
 | Data Preprocessing | [Nada Ahmed](https://github.com/Nada-ASamir) |
-| GridSearch & Model Selection | [Rana Ahmed](https://github.com/ranaahmedhussein), [Menna Mahmoud](https://github.com/mennatullah-9), [Doha Ayman](https://github.com/doha-aymann), [Alia Wael](https://github.com/Alia-elnaggar) and [Malak Hisham](https://github.com/malakhishams) |
+| GridSearch & Model Selection | [Rana Ahmed](https://github.com/ranaahmedhussein), [Menna Mahmoud](https://github.com/mennatullah-9), [Doha Ayman](https://github.com/doha-aymann), [Alia Wael](https://github.com/Alia-elnaggar), [Malak Hisham](https://github.com/malakhishams) and [Malak Mahmoud](https://github.com/malak-mahm0ud) |
 | Web UI Development | [Malak Mahmoud](https://github.com/malak-mahm0ud) and [Menna Mahmoud](https://github.com/mennatullah-9) |
 | Model Pipeline and Integration | [Nada Ahmed](https://github.com/Nada-ASamir) and [Malak Hisham](https://github.com/maakhishams) |
 
